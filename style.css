@@ -1,0 +1,17 @@
+*{
+  padding:0;
+  margin:0;
+  b
+}
+body{
+  background-color: pink;
+  justify-content: center;
+  color:white;
+
+}
+p{
+  padding:20px;
+}
+div{
+  text-align: center;
+}
